@@ -1,0 +1,7 @@
+name: workshop
+recipe: lamp
+config:
+  webroot: .
+services:
+  phpmyadmin:
+    type: phpmyadmin
